@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a B.Tech Computer Science Engineering student passionate about Software Development and Problem Solving.
 
-Currently, I am learning Python, Data Structures & Algorithms, SQL, and Web Development to prepare for Software Engineering roles.
+Currently, I am learning Python, Data Structures & Algorithms, SQL, and Data analytics to prepare for Software Engineering roles.
 
 ## 📚 Learning Roadmap
 - ✅ Python Basics

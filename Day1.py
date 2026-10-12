@@ -27,12 +27,12 @@ print(a[-2]) #Negative indexing
 
 #Slicing
 
-a = "Modi Jee"
-print(a[0:4:1]) #[start:stop:skip]
-print(a[0:4])   #if skip is not given it interpreter takes default value 1
-print(a[5:8:1])
-print(a[5::1]) # if end point not given it takes value till end
-print(a[:4:1]) #if start point not given it takes value from start
+# a = "Modi Jee"
+# print(a[0:4:1]) #[start:stop:skip]
+# print(a[0:4])   #if skip is not given it interpreter takes default value 1
+# print(a[5:8:1])
+# print(a[5::1]) # if end point not given it takes value till end
+# print(a[:4:1]) #if start point not given it takes value from start
 
 """"Type Conversion"""
 # two types of conversion 
@@ -120,15 +120,15 @@ b = int(input("Enter second number"))
 print(f"sum of {a} and {b} is {a+b}")
 
 # #4. average of three numbers
-c = int(input("Enter first number"))
-d = int(input("Enter second number"))
-e = int(input("Enter third number"))
-print(f"The average of {c} ,{d},{e} is{(c+d+e)/3}")
+# c = int(input("Enter first number"))
+# d = int(input("Enter second number"))
+# e = int(input("Enter third number"))
+# print(f"The average of {c} ,{d},{e} is{(c+d+e)/3}")
 
 # #5. Area of Rectangle 
 f = int(input("Enter the length of a rectangle"))
 g = int(input("Enter the width of a rectangle"))
 
-print(f"The area of rectangle is {f*g}")
+# print(f"The area of rectangle is {f*g}")
 
 
